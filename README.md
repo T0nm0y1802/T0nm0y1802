@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tanmay Mathur</h1>
-<h3 align="center">A passionate Software and Data Engineer from India</h3>
+<h3 align="center">A passionate  Data Science Enthusiast from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t0nm0y1802&label=Profile%20views&color=0e75b6&style=flat" alt="t0nm0y1802" /> </p>
 
-- 🌱 I’m currently learning **JavaScript,React,PowerBI**
+- 🌱 I’m currently learning **Machine Learning,Data Science,PowerBI**
 
 - 📫 How to reach me **tanmaymathur1802@gmail.com**
 
